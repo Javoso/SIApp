@@ -1,0 +1,7 @@
+{
+  "name": "SI_App",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
